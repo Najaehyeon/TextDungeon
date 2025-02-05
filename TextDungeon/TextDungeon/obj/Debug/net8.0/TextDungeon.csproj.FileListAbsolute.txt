@@ -1,0 +1,14 @@
+C:\Website Practice\TextDungeon\TextDungeon\bin\Debug\net8.0\TextDungeon.exe
+C:\Website Practice\TextDungeon\TextDungeon\bin\Debug\net8.0\TextDungeon.deps.json
+C:\Website Practice\TextDungeon\TextDungeon\bin\Debug\net8.0\TextDungeon.runtimeconfig.json
+C:\Website Practice\TextDungeon\TextDungeon\bin\Debug\net8.0\TextDungeon.dll
+C:\Website Practice\TextDungeon\TextDungeon\bin\Debug\net8.0\TextDungeon.pdb
+C:\Website Practice\TextDungeon\TextDungeon\obj\Debug\net8.0\TextDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Website Practice\TextDungeon\TextDungeon\obj\Debug\net8.0\TextDungeon.AssemblyInfoInputs.cache
+C:\Website Practice\TextDungeon\TextDungeon\obj\Debug\net8.0\TextDungeon.AssemblyInfo.cs
+C:\Website Practice\TextDungeon\TextDungeon\obj\Debug\net8.0\TextDungeon.csproj.CoreCompileInputs.cache
+C:\Website Practice\TextDungeon\TextDungeon\obj\Debug\net8.0\TextDungeon.dll
+C:\Website Practice\TextDungeon\TextDungeon\obj\Debug\net8.0\refint\TextDungeon.dll
+C:\Website Practice\TextDungeon\TextDungeon\obj\Debug\net8.0\TextDungeon.pdb
+C:\Website Practice\TextDungeon\TextDungeon\obj\Debug\net8.0\TextDungeon.genruntimeconfig.cache
+C:\Website Practice\TextDungeon\TextDungeon\obj\Debug\net8.0\ref\TextDungeon.dll
